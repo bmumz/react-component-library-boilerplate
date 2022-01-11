@@ -16,11 +16,7 @@ Boilerplate for React component libraries- set up with TypeScript, Jest, Rollup 
 
 ## 🚀 Run Locally
 
-Clone the project
-
-```bash
-  git clone https://github.com/bmumz/react-component-library-boilerplate
-```
+Click "Use this template" to create your own component library!
 
 Go to the project directory
 
